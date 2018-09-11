@@ -75,4 +75,4 @@ _(second time with clapping and audience joins in, repeat ad infinitum)_
 
 ~~Put the GitBook inside a Docker container and deploy on Kubernetes~~
 
-Encourage similar efforts at other Write the Docks conferences!
+Encourage similar efforts at other Write the Docs conferences!
